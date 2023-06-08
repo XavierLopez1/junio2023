@@ -5,7 +5,7 @@ public class segunda{
         Scanner teclado=new Scanner(System.in);
         String nombre1,nombre2;
         int edad1,edad2;
-        System.out.print("Ingrese el nombre:");
+        System.out.print("Ingrese los nombres:");
         nombre1=teclado.next();
         System.out.print("Ingrese edad:");
         edad1=teclado.nextInt();
