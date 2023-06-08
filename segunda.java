@@ -11,7 +11,7 @@ public class segunda{
         edad1=teclado.nextInt();
         System.out.print("Ingrese el nombres:");
         nombre2=teclado.next();
-        System.out.print("Ingrese edad:");
+        System.out.print("Ingrese edades:");
         edad2=teclado.nextInt();
         System.out.print("La persona de mayor edad es: ");
         if (edad1>edad2) {
