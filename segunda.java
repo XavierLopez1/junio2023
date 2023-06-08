@@ -9,7 +9,7 @@ public class segunda{
         nombre1=teclado.next();
         System.out.print("Ingrese edad:");
         edad1=teclado.nextInt();
-        System.out.print("Ingrese el nombre:");
+        System.out.print("Ingrese el nombres:");
         nombre2=teclado.next();
         System.out.print("Ingrese edad:");
         edad2=teclado.nextInt();
